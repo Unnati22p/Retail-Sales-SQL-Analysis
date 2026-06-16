@@ -1,3 +1,5 @@
+![Retail Sales SQL Analysis](screenshots/banner.png)
+
 # 📊 Retail Sales SQL Analysis
 
 A complete SQL project analyzing retail sales data using MySQL Workbench. This project demonstrates database creation, data importing, SQL querying, and business insight generation from retail transaction data.
